@@ -2,7 +2,7 @@
 并发：同时存在、发生或者完成。
 线程：并发的基本单位
 
-<img src="E:\桌面\其他文件\大三上\OS\AwesomeOS\images\tmpB01F.png" alt="tmpB01F" style="zoom:75%;" />
+<img src=".\images\tmpB01F.png" alt="tmpB01F" style="zoom:75%;" />
 
 线程库
 
