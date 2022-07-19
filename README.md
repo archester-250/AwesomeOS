@@ -1,5 +1,5 @@
 # AwesomeOS
-随手记些OS相关
+随手记些OS相关，在GitHub和gitee同步
 
 参考资料：
 
